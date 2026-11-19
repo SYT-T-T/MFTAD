@@ -1,0 +1,21 @@
+# Frozen 20-dataset order for the 2026-08-19 fixed-component-mean results.
+14_glass
+15_Hepatitis
+25_musk
+26_optdigits
+28_pendigits
+29_Pima
+35_SpamBase
+37_Stamps
+41_Waveform
+autos_variant1
+bands_band_42_variant1
+chess_nowin_145_variant1
+horse_1_12_variant1
+lymphography
+mushroom_p_365_variant1
+satellite
+sick_sick_72_variant1
+tic_tac_toe_negative_12_variant1
+wdbc_M_39_variant1
+zoo_variant1
