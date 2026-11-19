@@ -1,6 +1,4 @@
-# RelationMFTAD Code
-
-This repository contains the RelationMFTAD implementation and the scripts used for the paper's experiments. It does not contain benchmark datasets, experiment outputs, manuscript files, or third-party baseline implementations.
+# MFTAD
 
 ## Contents
 
@@ -50,6 +48,5 @@ python -m unittest discover -s reproducibility/tests -p "test_*.py" -v
 
 For a paper reproduction, use the exact command and protocol documented with the corresponding paper artifact. Do not use `--resume` to combine outputs produced by different code, data, or configuration versions. Store generated results outside the source tree or in an ignored local output directory.
 
-## License
-
-No project license is included yet. Before making this repository public, the copyright holder should select and add a license. Until then, public visibility should not be interpreted as permission to reuse or redistribute the code.
+## Contact
+If you have any questions, please contact 17779191866@163.com.
