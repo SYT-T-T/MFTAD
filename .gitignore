@@ -1,0 +1,45 @@
+# Python environments and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Local datasets and third-party comparison implementations
+/datasets/
+/data/
+/对比算法代码/
+
+# Generated experiment outputs and score archives
+/results/
+/outputs/
+/recomputed_results*/
+/paper_results/
+*.npz
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*
+
+# Editor and OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# LaTeX build products (if manuscript sources are added later)
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
